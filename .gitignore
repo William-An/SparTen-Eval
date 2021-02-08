@@ -9,6 +9,9 @@
 # APEX install lib
 apex/
 
+# Dataset
+dataset/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
