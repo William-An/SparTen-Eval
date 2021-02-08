@@ -6,6 +6,9 @@
 .DS_Store
 .DS_store
 
+# APEX install lib
+apex/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
